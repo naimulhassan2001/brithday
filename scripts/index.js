@@ -51,9 +51,9 @@ x = setInterval(function() {
     //Many Many Happy Returns of the day Sana!!!!!
     opts = {
       strings: ['Many Many Happy','Returns Of The Day', config.name],
-      charSize: 20,
-      charSpacing: 15,
-      lineHeight: 30,
+      charSize: 16,
+      charSpacing: 12,
+      lineHeight: 25,
 
       cx: w / 2,
       cy: h / 2,
@@ -63,8 +63,8 @@ x = setInterval(function() {
       fireworkAddedLineWidth: 8,
       fireworkSpawnTime: 200,
       fireworkBaseReachTime: 30,
-      fireworkAddedReachTime: 30,
-      fireworkCircleBaseSize: 20,
+      fireworkAddedReachTime: 20,
+      fireworkCircleBaseSize: 16,
       fireworkCircleAddedSize: 10,
       fireworkCircleBaseTime: 30,
       fireworkCircleAddedTime: 30,
