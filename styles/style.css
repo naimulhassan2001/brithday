@@ -6,8 +6,8 @@
 canvas {
   position: absolute;
   top: 0;
-  left: 50%;
-  transform: translateX(-20%);
+  left: 100%;
+  transform: translateX(-100%);
 }
 body {
   background: #ffffff;
