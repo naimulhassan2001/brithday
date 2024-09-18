@@ -51,9 +51,9 @@ x = setInterval(function() {
     //Many Many Happy Returns of the day Sana!!!!!
     opts = {
       strings: ['Many Many Happy','Returns Of The Day', config.name],
-      charSize: 30,
-      charSpacing: 25,
-      lineHeight: 40,
+      charSize: 20,
+      charSpacing: 15,
+      lineHeight: 30,
 
       cx: w / 2,
       cy: h / 2,
