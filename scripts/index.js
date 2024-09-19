@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Sep 18, 2024',
-  name: 'Jannat Ara Ferdous'
+  birthdate: 'Sep 19, 2024',
+  name: 'Tahamina Sheikh'
 };
 
 function hideEverything() {
