@@ -48,6 +48,8 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
 
+    
+
     //Many Many Happy Returns of the day Sana!!!!!
     opts = {
       strings: ['Many Many Happy','Returns Of The Day', config.name],
